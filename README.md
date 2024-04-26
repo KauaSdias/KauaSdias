@@ -1,8 +1,6 @@
-- 👋 Hi, I'm Kauã Dias
-- 👀 I'm interested in learning and working with programming and software development
-- 🌱 I am currently learning JavaScipt
-- 💞️ I'm looking to collaborate in the development of simple software
-- 📫 How to contact me:
+- I'm Kauã Dias
+- I'm interested in learning and working with programming and software development
+- I am currently learning JavaScipt
+- I'm looking to collaborate in the development of simple software
+- How to contact me:
 - Email: eukauadias@gmail.com
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I like programming games and complex programs
